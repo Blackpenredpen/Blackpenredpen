@@ -1,4 +1,4 @@
-- 👋 Hi, I’m daniel
+- 👋 Hi, I’m 0xdaniel
 - 👀 I’m interested in computers 
 - 🌱 I’m currently learning a lot of things. 
 - 💞️ I’m looking to collaborate on certain projects - you may chat with me and my colleague.
